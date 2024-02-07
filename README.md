@@ -1,4 +1,4 @@
-### 👋 반갑습니다 ~ 개발자 정고은입니다 👋
+### 👋 Nice to meet you ~ I’m programmer Go-eun Cheong 👋
 
 <p>
   <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -8,8 +8,11 @@
 </p>
 
 <p>
-  안녕하세요. 아직은 코린이 개발자 입니다.🚀<br/>
-  앞으로의 성장이 무궁무진하다는 뜻이죠✨ <br/>
+  <br/>
+   Hi. I am a programmer who is still learning coding.🚀<br/>
+  Please look forward to my future growth.✨ <br/>
+  Thank you <br/>
+  <br/>
   <br/>
 </p>
 
